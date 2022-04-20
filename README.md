@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm MinhMinh</h1>
 <h3 align="center">A passionate Flutter developer from VietNam.</h3>
+<h3 align="center">I am available for Freelance work</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lqmminh&label=Profile%20views&color=lightgrey&style=flat" alt="lqmminh" /> </p>
 
